@@ -3,14 +3,17 @@
 //1. data types built-in methods, variables
 
 //a. define a variable and give it a string value
+let animalName = "Dolphin";
 
 //b. define a variable and give it a number value
+let age = 10;
 
 //c. define a variable and give it a boolean value
+let colorBlue = true;
 
 //2. if else, ternary
 //a. define a variable 'metrocard' and give it a value of 5
-
+let metroCard = 5;
 //b. write an if statement that has a condition to check if the value of metro card is greater than 2.75, and display the message "you have enough to ride the train", if the condition is true
 
 //c.write an else statement that displays the message "you do not have enough to pay fare sorry"
